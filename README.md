@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 🌱 I’m currently learning how to use GitHub, particularly for Python and SQL. 
+## 🤔 I’m looking for help with coding and transitioning programs from FAME to Python. 
+## 😄 Pronouns: she/her
 
 <!--
 **kawalker226/kawalker226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +9,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-## 🌱 I’m currently learning how to use GitHub, particularly for Python and SQL. 
 - 👯 I’m looking to collaborate on ...
-## 🤔 I’m looking for help with coding and transitioning programs from FAME to Python. 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-## 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
